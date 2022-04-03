@@ -38,6 +38,7 @@ const Layout = ({ children, title = "Crypo Price Tracker" }) => {
         <Link href="/" passHref>
           <a>
            {/* adding svg */}
+           LOGO to go BACK
           </a>
         </Link>
       </header>
