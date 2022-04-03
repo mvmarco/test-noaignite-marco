@@ -34,7 +34,7 @@ body {
 }
 
 /* BACKGROUND */
-.light {
+/* .light {
   position: absolute;
   width: 0px;
   opacity: 0.75;
@@ -468,18 +468,7 @@ button:focus {
   100% {
     opacity: 1;
   }
-}
-
-#footer {
-  font-family: "Roboto", sans-serif;
-  font-size: 1.2em;
-  color: white;
-  position: fixed;
-  -webkit-transform: translate(95vw, 90vh);
-  -moz-transform: translate(95vw, 90vh);
-  transform: translate(95vw, 90vh);
-  transform: translate(95vw, 90vh);
-}
+} */
 
 /* DESIGN APP */
 .coin_app {
