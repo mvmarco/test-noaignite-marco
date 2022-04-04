@@ -3,6 +3,7 @@ import Coins from "../Coins";
 
 const CoinList = ({ filteredCoins }) => {
   return (
+    
     <div>
       {filteredCoins.map((coin) => {
         return (

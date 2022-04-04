@@ -14,6 +14,7 @@
   outline: none;
   height: 100%;
   width: 100%;
+  z-index: 100;
 }
 
 .coin_input::placeholder {

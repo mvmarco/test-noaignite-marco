@@ -16,6 +16,13 @@
   width: 400px;
 }
 
+.coin_icon_favourite {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding-bottom: 32px;
+}
+
 .coin_image {
   margin-bottom: 1rem;
 }
